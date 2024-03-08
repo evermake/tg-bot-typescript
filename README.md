@@ -1,6 +1,6 @@
 # _YourAwesomeBot_
 
-> ⚠️ Work in progress (template is not finished yet)
+> ⚠️ Work in progress ⚠️
 
 Opinionated template repository for building Telegram bots with TypeScript.
 
@@ -27,7 +27,7 @@ Root `package.json` includes the following scripts:
 - `lint` and `lint:fix` — lint and autofix the codebase (including non-code files)
 - `test` — run tests with Vitest
 - `taze` — update dependencies interactively
-- `release` — bump version of all modules, then commit, tag and push
+- `release` — bump version of all packages, then commit, tag and push
 
 ## Recommended IDE Setup
 
